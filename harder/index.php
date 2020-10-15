@@ -13,7 +13,8 @@
 </html>
 
 <script>
-	let MAX = 15;
+	let MAX = 99;
+
 	
 	document.addEventListener("DOMContentLoaded", (event) => {
 		loadAdditionProblems();
@@ -75,7 +76,6 @@
 		}
 		return lineOut;
 	}
-
 
 	function getRandomInt(max) {
 	  return Math.floor(Math.random() * Math.floor(max));
