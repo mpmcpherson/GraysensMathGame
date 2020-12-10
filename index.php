@@ -1,12 +1,19 @@
-<html>
+<grahtml>
 	<head>
 		<link rel="stylesheet" href="style.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 	</head>
 	<body>
 		<div id="container">
-			<div id="moreProblems" style="cursor: pointer;"><h2>Make more problems!</h2></div><br/>
-			<div id="body"></div><br/>
+			<div id="moreProblems" style="cursor: pointer;">
+				<h2>Make more problems!</h2>
+				<h3><a style="text-decoration: none;" href="harder">Try harder problems!</a></h3>
+			</div>
+			<br/>
+			
+			<div id="body"></div>
+			<br/>
+			
 			<div id="finished">You're done!</div>
 		</div>
 	</body>
