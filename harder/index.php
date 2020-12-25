@@ -10,6 +10,7 @@
 			<div id="finished">You're done!</div>
 		</div>
 	</body>
+	<?php require '../pierrefrancoisdulac.php'; ?>
 </html>
 
 <script>

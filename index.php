@@ -1,4 +1,4 @@
-<grahtml>
+<html>
 	<head>
 		<link rel="stylesheet" href="style.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
@@ -17,6 +17,7 @@
 			<div id="finished">You're done!</div>
 		</div>
 	</body>
+	<?php require 'pierrefrancoisdulac.php'; ?>
 </html>
 
 <script>
