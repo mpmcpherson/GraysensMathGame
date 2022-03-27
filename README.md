@@ -11,7 +11,7 @@ of a page, followed by at least thirty math problems. So we did.
 For three hours.
 
 When, thankfully, it was bedtime, we put him to bed and I looked through the workbooks and the rapidly filling notebooks.
-Inventing all those problems had been a giant pain. Pretending I'm capable of randomness isn't easy after the first few 
+Inventing all those problems had been a giant pain. Pretending I'm capable of randomness after the first few 
 dozen problems isn't easy. But then I had a thought. My son has a phone. He doesn't really use it for anything but youtube 
 and texting my wife and I, but he has it. So...what about a site that would generate problems for him? Simple! Then I can 
 just put a shortcut to it on the desktop, and call it a day.
